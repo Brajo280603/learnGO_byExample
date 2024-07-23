@@ -8,6 +8,8 @@ import (
 const s string = "constant"
 
 func main(){
+
+	//most rules as same as variables , but these are constants declared with const instead of var for variables.
 	fmt.Println(s)
 
 	const n = 500000000
